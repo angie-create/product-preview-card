@@ -45,7 +45,7 @@ body {
     align-self: stretch;
 }
 
-h2 {
+span {
     color: var(--color-grey, #6C7289);
 
     /* text-preset-4 */
