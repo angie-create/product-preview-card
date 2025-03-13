@@ -12,6 +12,7 @@ body {
     padding: 5rem 0.75rem 10.75rem 0.8125rem;
     height:100%;
     margin: 0;
+    height: 100vh;
 }
 
 
@@ -109,11 +110,11 @@ header {
 
     /* text-preset-5 */
     font-family: Montserrat;
-    font-size: 13px;
     font-style: normal;
     font-weight: 500;
-    line-height: 120%; /* 15.6px */
     text-decoration-line: line-through;
+    font-size: 0.875rem;
+    line-height: 160%; /* 22.4px */
 }
 
 button {
